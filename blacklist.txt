@@ -4,4 +4,3 @@ ads2.contentabc.com
 cdn1.ads.contentabc.com
 ss.doge-faucet.tk
 device-metrics-us.amazon.com
-www.wegetresults.com

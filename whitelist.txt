@@ -42,3 +42,7 @@ cdn2.hubspot.net
 www.jacksonemc.com
 aax-us-east.amazon-adsystem.com
 mas-ext.amazon.com
+clickfunnels.com
+www.clickfunnels.com
+images.clickfunnels.com
+app.clickfunnels.com
